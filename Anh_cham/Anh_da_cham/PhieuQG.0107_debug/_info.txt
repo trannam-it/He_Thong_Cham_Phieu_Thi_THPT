@@ -1,0 +1,11 @@
+image_name: PhieuQG.0107
+align_method: markers+ECC(cc=0.701)
+skew_angle: 0.40°
+rotated: False
+paper_found: True
+scale: 1.000
+src_pts (TL, TR, BR, BL):
+  (90.0, 108.0)
+  (2409.5, 124.0)
+  (2390.5, 3392.5)
+  (67.5, 3381.0)

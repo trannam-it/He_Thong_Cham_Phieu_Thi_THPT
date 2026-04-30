@@ -1,0 +1,11 @@
+image_name: PhieuQG.0137
+align_method: outer_box+ECC(cc=0.096)
+skew_angle: 0.00°
+rotated: False
+paper_found: True
+scale: 1.000
+src_pts (TL, TR, BR, BL):
+  (159.0, 168.0)
+  (2480.0, 168.0)
+  (2480.0, 3506.0)
+  (159.0, 3506.0)

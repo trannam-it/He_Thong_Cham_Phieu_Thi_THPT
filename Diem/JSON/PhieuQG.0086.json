@@ -1,0 +1,135 @@
+{
+  "image_name": "PhieuQG.0086.jpg",
+  "header": {
+    "sbd": "120100",
+    "madt": "526",
+    "sbd_digits": [
+      1,
+      2,
+      0,
+      1,
+      0,
+      0
+    ],
+    "madt_digits": [
+      5,
+      2,
+      6
+    ],
+    "sbd_certainty": [
+      "filled",
+      "filled",
+      "filled",
+      "filled",
+      "filled",
+      "filled"
+    ],
+    "madt_certainty": [
+      "filled",
+      "filled",
+      "filled"
+    ]
+  },
+  "phan1": {
+    "1": "A",
+    "2": "A",
+    "3": "D",
+    "4": "A",
+    "5": "A",
+    "6": "D",
+    "7": "B",
+    "8": "B",
+    "9": "A",
+    "10": "A",
+    "11": "B",
+    "12": "B",
+    "13": "D",
+    "14": "A",
+    "15": "B",
+    "16": "B",
+    "17": "A",
+    "18": "B",
+    "19": "B",
+    "20": "D",
+    "21": "A",
+    "22": "D",
+    "23": "C",
+    "24": "D",
+    "25": "D",
+    "26": "A",
+    "27": "B",
+    "28": "A",
+    "29": "B",
+    "30": "C",
+    "31": "C",
+    "32": "D",
+    "33": "A",
+    "34": "D",
+    "35": "D",
+    "36": "A",
+    "37": "B",
+    "38": "A",
+    "39": "C",
+    "40": "A"
+  },
+  "phan2": {
+    "1": {
+      "a": null,
+      "b": null,
+      "c": null,
+      "d": null
+    },
+    "2": {
+      "a": null,
+      "b": null,
+      "c": null,
+      "d": null
+    },
+    "3": {
+      "a": null,
+      "b": null,
+      "c": null,
+      "d": null
+    },
+    "4": {
+      "a": null,
+      "b": null,
+      "c": null,
+      "d": null
+    },
+    "5": {
+      "a": null,
+      "b": null,
+      "c": null,
+      "d": null
+    },
+    "6": {
+      "a": null,
+      "b": null,
+      "c": null,
+      "d": null
+    },
+    "7": {
+      "a": null,
+      "b": null,
+      "c": null,
+      "d": null
+    },
+    "8": {
+      "a": null,
+      "b": null,
+      "c": null,
+      "d": null
+    }
+  },
+  "phan3": {
+    "1": "",
+    "2": "",
+    "3": "",
+    "4": "",
+    "5": "",
+    "6": ""
+  },
+  "align_method": "markers+ECC(cc=0.824)",
+  "skew_angle": 0.19162395596504211
+}

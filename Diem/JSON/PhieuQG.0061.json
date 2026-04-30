@@ -1,0 +1,135 @@
+{
+  "image_name": "PhieuQG.0061.jpg",
+  "header": {
+    "sbd": "120001",
+    "madt": "111",
+    "sbd_digits": [
+      1,
+      2,
+      0,
+      0,
+      0,
+      1
+    ],
+    "madt_digits": [
+      1,
+      1,
+      1
+    ],
+    "sbd_certainty": [
+      "filled",
+      "filled",
+      "filled",
+      "filled",
+      "filled",
+      "filled"
+    ],
+    "madt_certainty": [
+      "filled",
+      "filled",
+      "filled"
+    ]
+  },
+  "phan1": {
+    "1": "B",
+    "2": "B",
+    "3": "B",
+    "4": "B",
+    "5": "B",
+    "6": "B",
+    "7": "B",
+    "8": "B",
+    "9": "B",
+    "10": "B",
+    "11": null,
+    "12": null,
+    "13": null,
+    "14": null,
+    "15": null,
+    "16": null,
+    "17": null,
+    "18": null,
+    "19": null,
+    "20": null,
+    "21": null,
+    "22": null,
+    "23": null,
+    "24": null,
+    "25": null,
+    "26": null,
+    "27": null,
+    "28": null,
+    "29": null,
+    "30": null,
+    "31": null,
+    "32": null,
+    "33": null,
+    "34": null,
+    "35": null,
+    "36": null,
+    "37": null,
+    "38": null,
+    "39": null,
+    "40": null
+  },
+  "phan2": {
+    "1": {
+      "a": "Dung",
+      "b": "Sai",
+      "c": "Sai",
+      "d": "Sai"
+    },
+    "2": {
+      "a": null,
+      "b": null,
+      "c": null,
+      "d": null
+    },
+    "3": {
+      "a": null,
+      "b": null,
+      "c": null,
+      "d": null
+    },
+    "4": {
+      "a": null,
+      "b": null,
+      "c": null,
+      "d": null
+    },
+    "5": {
+      "a": null,
+      "b": null,
+      "c": null,
+      "d": null
+    },
+    "6": {
+      "a": null,
+      "b": null,
+      "c": null,
+      "d": null
+    },
+    "7": {
+      "a": null,
+      "b": null,
+      "c": null,
+      "d": null
+    },
+    "8": {
+      "a": null,
+      "b": null,
+      "c": null,
+      "d": null
+    }
+  },
+  "phan3": {
+    "1": "12",
+    "2": "-15",
+    "3": "",
+    "4": "",
+    "5": "",
+    "6": ""
+  },
+  "align_method": "markers+ECC(cc=0.915)",
+  "skew_angle": 0.0
+}

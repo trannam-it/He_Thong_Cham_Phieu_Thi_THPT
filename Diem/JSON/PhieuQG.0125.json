@@ -1,0 +1,135 @@
+{
+  "image_name": "PhieuQG.0125.jpg",
+  "header": {
+    "sbd": "??????",
+    "madt": "368",
+    "sbd_digits": [
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    "madt_digits": [
+      3,
+      6,
+      8
+    ],
+    "sbd_certainty": [
+      "uncertain",
+      "uncertain",
+      "uncertain",
+      "uncertain",
+      "uncertain",
+      "uncertain"
+    ],
+    "madt_certainty": [
+      "filled",
+      "filled",
+      "filled"
+    ]
+  },
+  "phan1": {
+    "1": "D",
+    "2": "A",
+    "3": "B",
+    "4": "B",
+    "5": "D",
+    "6": "A",
+    "7": "D",
+    "8": "C",
+    "9": "D",
+    "10": "A",
+    "11": "D",
+    "12": "B",
+    "13": "A",
+    "14": "C",
+    "15": "C",
+    "16": "C",
+    "17": "A",
+    "18": "A",
+    "19": "C",
+    "20": "D",
+    "21": "C",
+    "22": "D",
+    "23": "D",
+    "24": "C",
+    "25": "D",
+    "26": "B",
+    "27": "D",
+    "28": "B",
+    "29": "B",
+    "30": "A",
+    "31": "B",
+    "32": "B",
+    "33": "A",
+    "34": "D",
+    "35": "D",
+    "36": "D",
+    "37": "A",
+    "38": "B",
+    "39": "A",
+    "40": "D"
+  },
+  "phan2": {
+    "1": {
+      "a": null,
+      "b": null,
+      "c": null,
+      "d": null
+    },
+    "2": {
+      "a": null,
+      "b": null,
+      "c": null,
+      "d": null
+    },
+    "3": {
+      "a": null,
+      "b": null,
+      "c": null,
+      "d": null
+    },
+    "4": {
+      "a": null,
+      "b": null,
+      "c": null,
+      "d": null
+    },
+    "5": {
+      "a": null,
+      "b": "Sai",
+      "c": "Sai",
+      "d": "Sai"
+    },
+    "6": {
+      "a": null,
+      "b": null,
+      "c": null,
+      "d": null
+    },
+    "7": {
+      "a": null,
+      "b": null,
+      "c": null,
+      "d": null
+    },
+    "8": {
+      "a": null,
+      "b": null,
+      "c": null,
+      "d": null
+    }
+  },
+  "phan3": {
+    "1": "",
+    "2": "",
+    "3": "",
+    "4": "",
+    "5": "",
+    "6": ""
+  },
+  "align_method": "markers+ECC(cc=0.655)",
+  "skew_angle": 0.28657200932502747
+}

@@ -1,0 +1,11 @@
+image_name: 2025-02-28_67c161e013699_image2_thptthongnhata
+align_method: markers+ECC(cc=0.807)
+skew_angle: 0.36°
+rotated: False
+paper_found: True
+scale: 1.000
+src_pts (TL, TR, BR, BL):
+  (250.5, 398.0)
+  (2965.0, 411.0)
+  (2959.5, 4257.0)
+  (226.5, 4247.0)

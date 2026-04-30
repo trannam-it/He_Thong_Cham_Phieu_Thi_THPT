@@ -1,0 +1,135 @@
+{
+  "image_name": "PhieuQG.0131.jpg",
+  "header": {
+    "sbd": "0416??",
+    "madt": "104",
+    "sbd_digits": [
+      0,
+      4,
+      1,
+      6,
+      null,
+      null
+    ],
+    "madt_digits": [
+      1,
+      0,
+      4
+    ],
+    "sbd_certainty": [
+      "filled",
+      "filled",
+      "filled",
+      "weak",
+      "empty",
+      "empty"
+    ],
+    "madt_certainty": [
+      "filled",
+      "weak",
+      "weak"
+    ]
+  },
+  "phan1": {
+    "1": "B",
+    "2": "D",
+    "3": "B",
+    "4": "D",
+    "5": "C",
+    "6": "A",
+    "7": "A",
+    "8": "C",
+    "9": "C",
+    "10": "B",
+    "11": "B",
+    "12": "D",
+    "13": "C",
+    "14": "B",
+    "15": "C",
+    "16": "B",
+    "17": "A",
+    "18": "C",
+    "19": null,
+    "20": null,
+    "21": null,
+    "22": null,
+    "23": null,
+    "24": null,
+    "25": null,
+    "26": null,
+    "27": null,
+    "28": null,
+    "29": null,
+    "30": null,
+    "31": null,
+    "32": null,
+    "33": null,
+    "34": null,
+    "35": null,
+    "36": null,
+    "37": null,
+    "38": null,
+    "39": null,
+    "40": null
+  },
+  "phan2": {
+    "1": {
+      "a": "Sai",
+      "b": "Sai",
+      "c": "Sai",
+      "d": "Dung"
+    },
+    "2": {
+      "a": "Dung",
+      "b": "Sai",
+      "c": "Sai",
+      "d": "Dung"
+    },
+    "3": {
+      "a": "Sai",
+      "b": "Sai",
+      "c": "Dung",
+      "d": "Dung"
+    },
+    "4": {
+      "a": "Dung",
+      "b": "Dung",
+      "c": "Sai",
+      "d": "Dung"
+    },
+    "5": {
+      "a": null,
+      "b": "Sai",
+      "c": "Sai",
+      "d": "Sai"
+    },
+    "6": {
+      "a": null,
+      "b": null,
+      "c": null,
+      "d": null
+    },
+    "7": {
+      "a": null,
+      "b": null,
+      "c": "Sai",
+      "d": "Sai"
+    },
+    "8": {
+      "a": null,
+      "b": null,
+      "c": null,
+      "d": null
+    }
+  },
+  "phan3": {
+    "1": "8",
+    "2": "3",
+    "3": "3921",
+    "4": "2",
+    "5": "4",
+    "6": "437"
+  },
+  "align_method": "markers+ECC(cc=0.812)",
+  "skew_angle": 0.5241234302520752
+}

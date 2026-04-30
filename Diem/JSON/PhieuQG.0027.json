@@ -1,0 +1,135 @@
+{
+  "image_name": "PhieuQG.0027.jpg",
+  "header": {
+    "sbd": "0?2345",
+    "madt": "??2",
+    "sbd_digits": [
+      0,
+      null,
+      2,
+      3,
+      4,
+      5
+    ],
+    "madt_digits": [
+      null,
+      null,
+      2
+    ],
+    "sbd_certainty": [
+      "weak",
+      "uncertain",
+      "weak",
+      "weak",
+      "weak",
+      "weak"
+    ],
+    "madt_certainty": [
+      "uncertain",
+      "uncertain",
+      "filled"
+    ]
+  },
+  "phan1": {
+    "1": "B",
+    "2": "C",
+    "3": "D",
+    "4": null,
+    "5": null,
+    "6": "A",
+    "7": "B",
+    "8": "C",
+    "9": "D",
+    "10": "B",
+    "11": "C",
+    "12": "B",
+    "13": "A",
+    "14": "C",
+    "15": "D",
+    "16": "B",
+    "17": null,
+    "18": null,
+    "19": null,
+    "20": "D",
+    "21": "B",
+    "22": "C",
+    "23": "B",
+    "24": "A",
+    "25": "D",
+    "26": "A",
+    "27": "C",
+    "28": "B",
+    "29": "A",
+    "30": "D",
+    "31": "B",
+    "32": "C",
+    "33": "D",
+    "34": "B",
+    "35": "A",
+    "36": "B",
+    "37": "C",
+    "38": "D",
+    "39": "A",
+    "40": "C"
+  },
+  "phan2": {
+    "1": {
+      "a": "Sai",
+      "b": null,
+      "c": null,
+      "d": null
+    },
+    "2": {
+      "a": null,
+      "b": null,
+      "c": null,
+      "d": null
+    },
+    "3": {
+      "a": "Dung",
+      "b": "Sai",
+      "c": null,
+      "d": null
+    },
+    "4": {
+      "a": null,
+      "b": "Sai",
+      "c": null,
+      "d": null
+    },
+    "5": {
+      "a": "Dung",
+      "b": "Dung",
+      "c": null,
+      "d": "Sai"
+    },
+    "6": {
+      "a": "Sai",
+      "b": "Dung",
+      "c": null,
+      "d": "Dung"
+    },
+    "7": {
+      "a": "Dung",
+      "b": "Sai",
+      "c": null,
+      "d": null
+    },
+    "8": {
+      "a": "Sai",
+      "b": "Dung",
+      "c": null,
+      "d": null
+    }
+  },
+  "phan3": {
+    "1": "",
+    "2": "",
+    "3": "",
+    "4": "",
+    "5": "",
+    "6": ","
+  },
+  "align_method": "markers+ECC(cc=0.375)",
+  "skew_angle": 1.3963298797607422
+}

@@ -1,0 +1,11 @@
+image_name: PhieuQG.0095
+align_method: fallback_image_corners
+skew_angle: 0.00°
+rotated: False
+paper_found: False
+scale: 1.000
+src_pts (TL, TR, BR, BL):
+  (0.0, 0.0)
+  (1239.0, 0.0)
+  (1239.0, 1752.0)
+  (0.0, 1752.0)

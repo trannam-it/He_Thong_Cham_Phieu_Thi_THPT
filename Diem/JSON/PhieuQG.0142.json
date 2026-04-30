@@ -1,0 +1,135 @@
+{
+  "image_name": "PhieuQG.0142.jpg",
+  "header": {
+    "sbd": "350114",
+    "madt": "?03",
+    "sbd_digits": [
+      3,
+      5,
+      0,
+      1,
+      1,
+      4
+    ],
+    "madt_digits": [
+      null,
+      0,
+      3
+    ],
+    "sbd_certainty": [
+      "filled",
+      "filled",
+      "filled",
+      "filled",
+      "weak",
+      "weak"
+    ],
+    "madt_certainty": [
+      "empty",
+      "weak",
+      "weak"
+    ]
+  },
+  "phan1": {
+    "1": "D",
+    "2": "B",
+    "3": "C",
+    "4": "C",
+    "5": "C",
+    "6": "D",
+    "7": "B",
+    "8": "B",
+    "9": "D",
+    "10": "C",
+    "11": "B",
+    "12": "D",
+    "13": "C",
+    "14": "B",
+    "15": "B",
+    "16": "B",
+    "17": "C",
+    "18": "C",
+    "19": "A",
+    "20": "B",
+    "21": "D",
+    "22": "B",
+    "23": "B",
+    "24": "B",
+    "25": null,
+    "26": null,
+    "27": null,
+    "28": null,
+    "29": null,
+    "30": null,
+    "31": null,
+    "32": null,
+    "33": null,
+    "34": null,
+    "35": null,
+    "36": null,
+    "37": null,
+    "38": null,
+    "39": null,
+    "40": null
+  },
+  "phan2": {
+    "1": {
+      "a": "Dung",
+      "b": "Dung",
+      "c": "Dung",
+      "d": "Sai"
+    },
+    "2": {
+      "a": "Dung",
+      "b": "Sai",
+      "c": "Dung",
+      "d": "Sai"
+    },
+    "3": {
+      "a": "Sai",
+      "b": "Dung",
+      "c": "Dung",
+      "d": "Sai"
+    },
+    "4": {
+      "a": "Sai",
+      "b": "Dung",
+      "c": "Sai",
+      "d": "Dung"
+    },
+    "5": {
+      "a": null,
+      "b": null,
+      "c": null,
+      "d": null
+    },
+    "6": {
+      "a": null,
+      "b": null,
+      "c": null,
+      "d": null
+    },
+    "7": {
+      "a": null,
+      "b": null,
+      "c": null,
+      "d": null
+    },
+    "8": {
+      "a": null,
+      "b": null,
+      "c": null,
+      "d": null
+    }
+  },
+  "phan3": {
+    "1": "",
+    "2": "",
+    "3": "",
+    "4": "",
+    "5": "",
+    "6": "9"
+  },
+  "align_method": "markers+marker_fine+ECC(cc=0.686)",
+  "skew_angle": 2.057919502258301
+}

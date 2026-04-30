@@ -1,0 +1,135 @@
+{
+  "image_name": "PhieuQG.0071.jpg",
+  "header": {
+    "sbd": "0??027",
+    "madt": "???",
+    "sbd_digits": [
+      0,
+      null,
+      null,
+      0,
+      2,
+      7
+    ],
+    "madt_digits": [
+      null,
+      null,
+      null
+    ],
+    "sbd_certainty": [
+      "weak",
+      "empty",
+      "empty",
+      "weak",
+      "weak",
+      "filled"
+    ],
+    "madt_certainty": [
+      "empty",
+      "uncertain",
+      "uncertain"
+    ]
+  },
+  "phan1": {
+    "1": null,
+    "2": null,
+    "3": null,
+    "4": "D",
+    "5": null,
+    "6": null,
+    "7": null,
+    "8": null,
+    "9": null,
+    "10": "D",
+    "11": "D",
+    "12": "C",
+    "13": "B",
+    "14": "A",
+    "15": "B",
+    "16": "C",
+    "17": "D",
+    "18": "C",
+    "19": "B",
+    "20": "A",
+    "21": "A",
+    "22": "B",
+    "23": "C",
+    "24": "D",
+    "25": "C",
+    "26": "B",
+    "27": "A",
+    "28": "B",
+    "29": "C",
+    "30": null,
+    "31": "D",
+    "32": "C",
+    "33": "B",
+    "34": "A",
+    "35": null,
+    "36": null,
+    "37": null,
+    "38": null,
+    "39": null,
+    "40": null
+  },
+  "phan2": {
+    "1": {
+      "a": null,
+      "b": null,
+      "c": null,
+      "d": null
+    },
+    "2": {
+      "a": "Sai",
+      "b": "Sai",
+      "c": "Sai",
+      "d": "Sai"
+    },
+    "3": {
+      "a": "Dung",
+      "b": "Dung",
+      "c": "Dung",
+      "d": "Dung"
+    },
+    "4": {
+      "a": "Sai",
+      "b": "Dung",
+      "c": "Dung",
+      "d": "Sai"
+    },
+    "5": {
+      "a": null,
+      "b": null,
+      "c": null,
+      "d": null
+    },
+    "6": {
+      "a": null,
+      "b": null,
+      "c": null,
+      "d": null
+    },
+    "7": {
+      "a": null,
+      "b": null,
+      "c": null,
+      "d": null
+    },
+    "8": {
+      "a": null,
+      "b": null,
+      "c": null,
+      "d": null
+    }
+  },
+  "phan3": {
+    "1": "",
+    "2": "",
+    "3": "",
+    "4": "",
+    "5": "",
+    "6": ""
+  },
+  "align_method": "markers+marker_fine+ECC(cc=0.439)",
+  "skew_angle": 1.5205249786376953
+}

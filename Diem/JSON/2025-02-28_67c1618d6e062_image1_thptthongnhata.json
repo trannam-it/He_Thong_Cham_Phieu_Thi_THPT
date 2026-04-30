@@ -1,0 +1,135 @@
+{
+  "image_name": "2025-02-28_67c1618d6e062_image1_thptthongnhata.BMP",
+  "header": {
+    "sbd": "0450??",
+    "madt": "103",
+    "sbd_digits": [
+      0,
+      4,
+      5,
+      0,
+      null,
+      null
+    ],
+    "madt_digits": [
+      1,
+      0,
+      3
+    ],
+    "sbd_certainty": [
+      "filled",
+      "filled",
+      "filled",
+      "filled",
+      "empty",
+      "empty"
+    ],
+    "madt_certainty": [
+      "filled",
+      "filled",
+      "filled"
+    ]
+  },
+  "phan1": {
+    "1": "A",
+    "2": "A",
+    "3": "B",
+    "4": "B",
+    "5": "C",
+    "6": "C",
+    "7": "D",
+    "8": "D",
+    "9": "A",
+    "10": "A",
+    "11": "B",
+    "12": "B",
+    "13": "C",
+    "14": "C",
+    "15": "D",
+    "16": "D",
+    "17": "A",
+    "18": "A",
+    "19": "B",
+    "20": "B",
+    "21": null,
+    "22": null,
+    "23": null,
+    "24": null,
+    "25": null,
+    "26": null,
+    "27": null,
+    "28": null,
+    "29": "B",
+    "30": null,
+    "31": null,
+    "32": null,
+    "33": null,
+    "34": null,
+    "35": null,
+    "36": null,
+    "37": null,
+    "38": null,
+    "39": null,
+    "40": null
+  },
+  "phan2": {
+    "1": {
+      "a": "Dung",
+      "b": "Sai",
+      "c": "Dung",
+      "d": "Dung"
+    },
+    "2": {
+      "a": "Sai",
+      "b": "Sai",
+      "c": "Dung",
+      "d": "Dung"
+    },
+    "3": {
+      "a": "Dung",
+      "b": "Sai",
+      "c": "Dung",
+      "d": "Sai"
+    },
+    "4": {
+      "a": "Dung",
+      "b": "Sai",
+      "c": "Dung",
+      "d": "Sai"
+    },
+    "5": {
+      "a": null,
+      "b": null,
+      "c": "Sai",
+      "d": null
+    },
+    "6": {
+      "a": null,
+      "b": null,
+      "c": null,
+      "d": null
+    },
+    "7": {
+      "a": null,
+      "b": null,
+      "c": null,
+      "d": null
+    },
+    "8": {
+      "a": null,
+      "b": null,
+      "c": null,
+      "d": null
+    }
+  },
+  "phan3": {
+    "1": "-1,5",
+    "2": "6005",
+    "3": "7,2",
+    "4": "0,25",
+    "5": "3,21",
+    "6": "-2"
+  },
+  "align_method": "markers+ECC(cc=0.788)",
+  "skew_angle": 0.439353346824646
+}

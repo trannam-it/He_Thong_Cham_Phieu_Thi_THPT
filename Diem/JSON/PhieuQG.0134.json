@@ -1,0 +1,135 @@
+{
+  "image_name": "PhieuQG.0134.jpg",
+  "header": {
+    "sbd": "429???",
+    "madt": "706",
+    "sbd_digits": [
+      4,
+      2,
+      9,
+      null,
+      null,
+      null
+    ],
+    "madt_digits": [
+      7,
+      0,
+      6
+    ],
+    "sbd_certainty": [
+      "filled",
+      "filled",
+      "filled",
+      "uncertain",
+      "uncertain",
+      "uncertain"
+    ],
+    "madt_certainty": [
+      "filled",
+      "filled",
+      "filled"
+    ]
+  },
+  "phan1": {
+    "1": "B",
+    "2": "C",
+    "3": "C",
+    "4": "B",
+    "5": "C",
+    "6": "A",
+    "7": "B",
+    "8": "A",
+    "9": "D",
+    "10": "C",
+    "11": "B",
+    "12": "C",
+    "13": null,
+    "14": "B",
+    "15": "C",
+    "16": "B",
+    "17": "B",
+    "18": "B",
+    "19": "D",
+    "20": "C",
+    "21": "B",
+    "22": "D",
+    "23": "D",
+    "24": "C",
+    "25": "D",
+    "26": "A",
+    "27": "C",
+    "28": "B",
+    "29": null,
+    "30": "B",
+    "31": null,
+    "32": null,
+    "33": null,
+    "34": null,
+    "35": null,
+    "36": null,
+    "37": null,
+    "38": null,
+    "39": null,
+    "40": null
+  },
+  "phan2": {
+    "1": {
+      "a": null,
+      "b": null,
+      "c": null,
+      "d": null
+    },
+    "2": {
+      "a": null,
+      "b": null,
+      "c": null,
+      "d": null
+    },
+    "3": {
+      "a": null,
+      "b": null,
+      "c": null,
+      "d": null
+    },
+    "4": {
+      "a": null,
+      "b": null,
+      "c": null,
+      "d": null
+    },
+    "5": {
+      "a": null,
+      "b": null,
+      "c": null,
+      "d": null
+    },
+    "6": {
+      "a": null,
+      "b": null,
+      "c": null,
+      "d": null
+    },
+    "7": {
+      "a": "Sai",
+      "b": null,
+      "c": null,
+      "d": null
+    },
+    "8": {
+      "a": null,
+      "b": null,
+      "c": null,
+      "d": null
+    }
+  },
+  "phan3": {
+    "1": "",
+    "2": "",
+    "3": "",
+    "4": "",
+    "5": "",
+    "6": ""
+  },
+  "align_method": "markers+ECC(cc=0.536)",
+  "skew_angle": 0.23385901749134064
+}
